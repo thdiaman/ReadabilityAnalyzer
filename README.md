@@ -1,5 +1,5 @@
 # ReadabilityAnalyzer
-ReadabilityAnalyzer is a python wrapper of the readability tool by Scalabrino et al. (relevant paper available [here](https://doi.org/10.1002/smr.1958)), which also incorporates the models of Buse & Weimer (relevant paper available [here](https://doi.org/10.1109/TSE.2009.70)) and Posnett (relevant paper available [here](https://doi.org/10.1145/1985441.1985454)). Original tool by Scalabrino et al. can be found in [this link](https://dibt.unimol.it/report/readability/).
+ReadabilityAnalyzer is a python wrapper of the readability tool by Scalabrino et al. (relevant paper available [here](https://doi.org/10.1002/smr.1958)), which also incorporates the models of Buse & Weimer (relevant paper available [here](https://doi.org/10.1109/TSE.2009.70)) and Posnett (relevant paper available [here](https://doi.org/10.1145/1985441.1985454)).
 
 ## Prerequisites
 The python library requirements include standard python libraries as well as the javalang python library. This may be installed using the command `pip install javalang==0.13.0`
